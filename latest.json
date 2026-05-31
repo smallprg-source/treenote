@@ -1,7 +1,7 @@
 {
   "version": "6.5.31.16",
   "download_url": "https://github.com/smallprg-source/TREENOTE/releases/download/v6.5.31.16/Treenote4web.exe",
-  "sha256":"FF194CEB50D103677BAB6AD4E038C6D5782A3BE4F53CDA2442504862BB935F7A",
+  "sha256":"8de0ed46133fd341680f2f46d7b5ed710247fbd6e7facf9ded38fd582c453c53",
   "required": false,
   "notes": "버그 패치"
 }
