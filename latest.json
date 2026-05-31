@@ -1,7 +1,7 @@
 {
   "version": "6.5.31.6",
   "download_url": "https://github.com/smallprg-source/TREENOTE/releases/download/v1.0.0/Treenote4web.exe",
-  "sha256":"d05b888fe66c09d561d4ec5752c981d094716912465f349e554ada1a1f2a901b",
+  "sha256":"3a2742a118e53e80716a993f2f33a0471f1c3b1a9907dad24d27d90747639fc2",
   "required": false,
   "notes": "첫 배포"
 }
