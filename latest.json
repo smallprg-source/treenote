@@ -1,7 +1,7 @@
 {
   "version": "6.5.31.16",
-  "download_url": "https://github.com/smallprg-source/TREENOTE/releases/download/v6.5.31.16/Treenote4web.exe",
+  "download_url": "https://github.com/smallprg-source/TREENOTE/releases/download/v6.6.1.1/Treenote4web.exe",
   "sha256":"8de0ed46133fd341680f2f46d7b5ed710247fbd6e7facf9ded38fd582c453c53",
   "required": false,
-  "notes": "버그 패치"
+  "notes": "업데이트시 config.ini 파일 오류 패치"
 }
