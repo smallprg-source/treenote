@@ -1,7 +1,7 @@
 {
   "version": "6.6.1.2",
   "download_url": "https://github.com/smallprg-source/TREENOTE/releases/download/v6.6.1.2/Treenote4web.exe",
-  "sha256":"27c003e03683304f30b51afb106f978c01a69141a5145d5f493ea1137e66f05d",
+  "sha256":"0fe6ed2d259fb774ed9ac5fa013dd79456891dcc2139a1d330d385f185f7aa83",
   "required": false,
   "notes": "트리뷰 삽입 후 버그 패치, 메시지 제목 스타일 변경"
 }
