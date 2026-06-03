@@ -1,6 +1,6 @@
 {
-  "version": "6.6.1.2",
-  "download_url": "https://github.com/smallprg-source/TREENOTE/releases/download/v6.6.1.2/Treenote4web.exe",
+  "version": "6.6.2.1",
+  "download_url": "https://github.com/smallprg-source/TREENOTE/releases/download/v6.6.2.1/Treenote4web.exe",
   "sha256":"c9c70523dd2e0b0220ee1f917143bc8b268702ca0a46dd67e0b798ac835f407a",
   "required": false,
   "notes": "보안 패치"
