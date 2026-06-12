@@ -1,7 +1,7 @@
 {
-  "version": "6.6.8.1",
-  "download_url": "https://github.com/smallprg-source/TREENOTE/releases/download/6.6.8.1/Treenote4web.exe",
-  "sha256":"0032954bfe6047b6b721f7f7bc75be4f7b3376be1db9495539ed752394dae55a",
+  "version": "6.6.8.2",
+  "download_url": "https://github.com/smallprg-source/TREENOTE/releases/download/6.6.8.2/Treenote4web.exe",
+  "sha256":"b0be0f76a488707f9bf1bbe999478b8fa512b03f7cd1f80295ec27ec7f38592c",
   "required": false,
-  "notes": "트리노트 업데이트 여부 설정 및 프록시 서버 설정 기능 추가"
+  "notes": "트리노트 수동 업데이트 기능 추가"
 }
