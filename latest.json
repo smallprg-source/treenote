@@ -1,7 +1,7 @@
 {
   "version": "6.6.8.2",
   "download_url": "https://github.com/smallprg-source/TREENOTE/releases/download/v6.6.8.2/Treenote4web.exe",
-  "sha256":"b0be0f76a488707f9bf1bbe999478b8fa512b03f7cd1f80295ec27ec7f38592c",
+  "sha256":"c0a8828371a64e8e56a3e06b405f4449a6773d798298902860d00400de221c87",
   "required": false,
   "notes": "트리노트 수동 업데이트 기능 추가"
 }
