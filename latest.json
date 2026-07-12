@@ -1,7 +1,7 @@
 {
-  "version": "67.11.1",
-  "download_url": "https://github.com/smallprg-source/TREENOTE/releases/download/v67.11.1/Treenote.exe",
-  "sha256":"38c8e7d8f843313ff3fe51f22ebe428dec6f65115cdd745323fed7ae277495b8",
+  "version": "v67.12.1",
+  "download_url": "https://github.com/smallprg-source/TREENOTE/releases/download/v67.12.1/Treenote.exe",
+  "sha256":"74a3d6f8893949a768351ffe22f9bdf6042e2218e628e83cd000d9c600ed1ff5",
   "required": false,
-  "notes": "트리노트 광고 전환"
+  "notes": "광고오류 수정"
 }
