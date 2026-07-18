@@ -1,7 +1,7 @@
 {
-  "version": "v67.17.1",
-  "download_url": "https://github.com/smallprg-source/treenote/releases/download/v67.17.1/Treenote.exe",
-  "sha256":"964f57b080e1f8ca76b98d2eeee2ad6bd3af99985b819685e7de6b6abed9688b",
+  "version": "v1.7.2",
+  "download_url": "https://github.com/smallprg-source/treenote/releases/download/v1.7.2/Treenote.exe",
+  "sha256":"46e9252d3c47f367e223af98f63e67ca5b7126cc9d0d2253fb962563a70e685e",
   "required": false,
   "notes": "광고오류 수정"
 }
