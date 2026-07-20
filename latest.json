@@ -1,7 +1,7 @@
 {
-  "version": "v1.7.2",
-  "download_url": "https://github.com/smallprg-source/treenote/releases/download/v1.7.2/Treenote.exe",
-  "sha256":"46e9252d3c47f367e223af98f63e67ca5b7126cc9d0d2253fb962563a70e685e",
+  "version": "v1.7.3",
+  "download_url": "https://github.com/smallprg-source/treenote/releases/download/v1.7.3/Treenote.exe",
+  "sha256":"30d3e772761545fb7025d48a97d1e410d37f43d2fb07a0c093de12b179df60fd",
   "required": false,
-  "notes": "광고오류 수정"
+  "notes": "광고 서버 연결 실패 안내창을 개선"
 }
