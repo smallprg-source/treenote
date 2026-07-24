@@ -1,7 +1,7 @@
 {
-  "version": "v1.7.4",
-  "download_url": "https://github.com/smallprg-source/treenote/releases/download/v1.7.4/Treenote.exe",
-  "sha256":"834fa4617c872bdd9cfdd21a91f1b4894d1eff23ea885310173b3d65fd839ced",
+  "version": "v1.7.5",
+  "download_url": "https://github.com/smallprg-source/treenote/releases/download/v1.7.5/Treenote.exe",
+  "sha256":"f8e1edf230f1412b567bfe3f776727c111d6f94fc0f515444afc9cbdb2ddd70e",
   "required": false,
   "notes": "하단의 기능을 사용하지 못하는 버그 수정"
 }
