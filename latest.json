@@ -1,7 +1,7 @@
 {
-  "version": "v1.7.5",
-  "download_url": "https://github.com/smallprg-source/treenote/releases/download/v1.7.5/Treenote.exe",
-  "sha256":"f8e1edf230f1412b567bfe3f776727c111d6f94fc0f515444afc9cbdb2ddd70e",
+  "version": "v1.7.6",
+  "download_url": "https://github.com/smallprg-source/treenote/releases/download/v1.7.6/Treenote.exe",
+  "sha256":"cdd21a13509d6a5c2b17ae06de9b9f2f0dbe5bb0f30f5b48ba73deaf3c5faea8",
   "required": false,
-  "notes": "하단의 기능을 사용하지 못하는 버그 수정"
+  "notes": "기본 폰트 크기 적용 버그 패치"
 }
