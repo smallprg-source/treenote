@@ -1,7 +1,7 @@
 {
-  "version": "v1.7.6",
-  "download_url": "https://github.com/smallprg-source/treenote/releases/download/v1.7.6/Treenote.exe",
-  "sha256":"cdd21a13509d6a5c2b17ae06de9b9f2f0dbe5bb0f30f5b48ba73deaf3c5faea8",
+  "version": "v1.7.7",
+  "download_url": "https://github.com/smallprg-source/treenote/releases/download/v1.7.7/Treenote.exe",
+  "sha256":"ca08f43c9b3c3d617adc5718eaa1ddf837ab06a41687abaebc9fada53613dc6c",
   "required": false,
-  "notes": "기본 폰트 크기 적용 버그 패치"
+  "notes": "기본 포트 설정 : 5001"
 }
