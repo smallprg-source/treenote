@@ -1,6 +1,6 @@
 {
-  "version": "v1.9.1",
-  "download_url": "https://github.com/smallprg-source/treenote/releases/download/v1.9.1/TreeNote.exe",
+  "version": "v1.9.2",
+  "download_url": "https://github.com/smallprg-source/treenote/releases/download/v1.9.2/TreeNote.exe",
   "sha256":"8248f9297f6e5d0b415f802253fe9bb6f2d97c5d674f6513481db23026b0d3a1",
   "required": false,
   "notes": "평가판 기능 추가"
