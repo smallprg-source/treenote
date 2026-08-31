@@ -1,7 +1,7 @@
 {
   "version": "v1.9.1",
   "download_url": "https://github.com/smallprg-source/treenote/releases/download/v1.9.1/TreeNote.exe",
-  "sha256":"502fb94cadef3e02218c0bbf3f9aede012bec9b028a9902f676c1cd03a14fb14",
+  "sha256":"8248f9297f6e5d0b415f802253fe9bb6f2d97c5d674f6513481db23026b0d3a1",
   "required": false,
-  "notes": "광고서버 미접속 패치, mssql 미접속 패치, 쿠팡 추가"
+  "notes": "평가판 기능 추가"
 }
