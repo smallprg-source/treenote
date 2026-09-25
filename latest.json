@@ -1,7 +1,7 @@
 {
-  "version": "v1.9.4",
-  "download_url": "https://github.com/smallprg-source/treenote/releases/download/v1.9.4/TreeNote.exe",
-  "sha256":"812730ad5be98830fd614680ed5a8f0488c96ac591ca6927e1927531a47efde7",
+  "version": "v1.9.5",
+  "download_url": "https://github.com/smallprg-source/treenote/releases/download/v1.9.5/TreeNote.exe",
+  "sha256":"54d2d0ab297e474446b7e06a212be3d4eca1bc3bac304277a89c4e1543a85582",
   "required": false,
   "notes": "인터페이스 수정"
 }
